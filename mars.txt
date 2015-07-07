@@ -1,3 +1,4 @@
 Mars is the fourth planet from the sun.
 Mars is red.
 Mars is cold.
+Mars has no liquid water.
