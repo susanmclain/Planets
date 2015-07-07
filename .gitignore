@@ -1,4 +1,4 @@
 *.dat
 Results/
 venus.txt
-Practice/
+Practice/*.txt
